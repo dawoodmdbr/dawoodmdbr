@@ -3,13 +3,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dawoodmdbr&color=blue) 
 
 ## 😃 About Me
-Hey there! I'm a Software Engineering student at FAST CFD, always on a mission to turn coffee ☕ into code 💻. I thrive on solving complex problems, learning new technologies, and sometimes, debugging for hours only to realize I missed a semicolon. 😅 
+Hey there! I'm a Software Engineering student at FAST CFD, always on a mission to turn coffee ☕ into code 💻. I thrive on solving complex problems, learning new technologies, and sometimes, debugging for hours only to realize I missed a semicolon. 😅
 
 ## ⚡ Skills & Technologies
 - 🖥️ **Programming:** C++, Python, JavaScript
 - 🌐 **Web Development:** HTML, CSS, React
 - 📊 **Data Structures & Algorithms**
 - 🔌 **Digital Logic Design**
+
+## 🚀 Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🎮 Fun Projects
 - 🎯 **Console-based Quiz Game** – Challenge yourself with tricky questions!
