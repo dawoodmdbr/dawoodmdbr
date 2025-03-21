@@ -12,9 +12,11 @@ I'm a Software Engineering student at FAST CFD, passionate about coding and math
 - Digital Logic Design
 
 ## 📂 Projects
-- 🔹 **Console based quiz game**
+-  **Console based quiz game**
+-  **Basketball Hoop Counter**
 
 ## 📚 Education
+🎓 Punjab College (Main BWP Campus) | ICS | 2022 - 2024
 🎓 FAST-NUCES (Chiniot-Faisalabad Campus) | BS Software Engineering | 2024 - 2028
 
 ## 🌱 Currently Learning
