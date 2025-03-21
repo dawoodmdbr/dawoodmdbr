@@ -1,37 +1,37 @@
-# Hi there, I'm Mian Dawood bin Rafay! 👋
+# Hi there, I'm Mian Dawood bin Rafay! 🚀✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=dawoodmdbr&color=blue) 
 
-## 🚀 About Me
-I'm a Software Engineering student at FAST CFD, passionate about coding and mathematics. I enjoy working on projects that challenge my problem-solving skills and help me learn new technologies.
+## 😃 About Me
+Hey there! I'm a Software Engineering student at FAST CFD, always on a mission to turn coffee ☕ into code 💻. I thrive on solving complex problems, learning new technologies, and sometimes, debugging for hours only to realize I missed a semicolon. 😅 
 
-## 🛠 Skills & Technologies
-- Programming: C++, Python, JavaScript
-- Web Development: HTML, CSS, React
-- Data Structures & Algorithms
-- Digital Logic Design
+## ⚡ Skills & Technologies
+- 🖥️ **Programming:** C++, Python, JavaScript
+- 🌐 **Web Development:** HTML, CSS, React
+- 📊 **Data Structures & Algorithms**
+- 🔌 **Digital Logic Design**
 
-## 📂 Projects
--  **Console based quiz game**
--  **Basketball Hoop Counter**
+## 🎮 Fun Projects
+- 🎯 **Console-based Quiz Game** – Challenge yourself with tricky questions!
+- 🏀 **Basketball Hoop Counter** – Because keeping score manually is too mainstream. 😆
 
-## 📚 Education
-🎓 Punjab College (Main BWP Campus) | ICS | 2022 - 2024
-🎓 FAST-NUCES (Chiniot-Faisalabad Campus) | BS Software Engineering | 2024 - 2028
+## 🎓 Education
+- 📍 **Punjab College (Main BWP Campus)** | ICS | 2022 - 2024
+- 📍 **FAST-NUCES (Chiniot-Faisalabad Campus)** | BS Software Engineering | 2024 - 2028
 
-## 🌱 Currently Learning
-- Pointers & Dynamic Memory Allocation
-- Advanced C++ Concepts
-- Object Oriented Programming
-- Digital Logic System Design
+## 🌱 Currently Exploring
+- 🚀 **Pointers & Dynamic Memory Allocation**
+- 🎭 **Object-Oriented Programming**
+- 🔬 **Advanced C++ Concepts**
+- ⚡ **Digital Logic System Design**
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Geek Out!
 - 📧 Email: [dawoodbinrafaydbr@gmail.com](mailto:dawoodbinrafaydbr@gmail.com)
-- 💼 LinkedIn: [miandawood](https://linkedin.com/in/miandawood)
+- 💼 LinkedIn: [miandawood](https://www.linkedin.com/in/mian-dawood-bin-rafay-4b3194254/)
 - 📸 Instagram: [dawood.mdbr](https://instagram.com/dawoodmdbr)
 - 💻 GitHub: [dawoodmdbr](https://github.com/dawoodmdbr)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daw&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawoodmdbr&show_icons=true&theme=radical)
 
-Thanks for stopping by! 😃
+🔍 Always curious, always learning – let's build something awesome together! 😃🚀
