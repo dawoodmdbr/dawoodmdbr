@@ -30,7 +30,7 @@ Hey there! I'm a Software Engineering student at FAST CFD, always on a mission t
 ## 🤝 Let's Connect & Geek Out!
 - 📧 Email: [dawoodbinrafaydbr@gmail.com](mailto:dawoodbinrafaydbr@gmail.com)
 - 💼 LinkedIn: [miandawood](https://www.linkedin.com/in/mian-dawood-bin-rafay-4b3194254/)
-- 📸 Instagram: [dawood.mdbr](https://instagram.com/dawoodmdbr)
+- 📸 Instagram: [dawood.mdbr](https://instagram.com/dawood.mdbr)
 - 💻 GitHub: [dawoodmdbr](https://github.com/dawoodmdbr)
 
 ## 📊 GitHub Stats
