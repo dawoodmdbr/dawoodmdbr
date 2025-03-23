@@ -17,10 +17,6 @@ Hey there! I'm a Software Engineering student at FAST CFD, always on a mission t
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🎮 Fun Projects
-- 🎯 **Console-based Quiz Game** – Challenge yourself with tricky questions!
-- 🏀 **Basketball Hoop Counter** – Because keeping score manually is too mainstream. 😆
-
 ## 🎓 Education
 - 📍 **Punjab College (Main BWP Campus)** | ICS | 2022 - 2024
 - 📍 **FAST-NUCES (Chiniot-Faisalabad Campus)** | BS Software Engineering | 2024 - 2028
@@ -39,8 +35,6 @@ Hey there! I'm a Software Engineering student at FAST CFD, always on a mission t
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawoodmdbr&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodmdbr&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawoodmdbr&theme=radical)
 
