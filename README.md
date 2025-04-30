@@ -33,11 +33,6 @@ Hey there! I'm a Software Engineering student at FAST CFD, always on a mission t
 - 📸 Instagram: [dawood.mdbr](https://instagram.com/dawood.mdbr)
 - 💻 GitHub: [dawoodmdbr](https://github.com/dawoodmdbr)
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawoodmdbr&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawoodmdbr&theme=radical)
-
 ## 🌟 Fun Fact
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 
