@@ -39,5 +39,5 @@ A passionate **Software Engineering** student at **FAST-NUCES (CFD Campus)**, bu
 You can add this if you like GitHub graphs:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawoodmdbr&show_icons=true&theme=radical)
-![](https://raw.githubusercontent.com/dawoodmdbr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/dawoodmdbr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dawoodmdbr/github-stats1/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dawoodmdbr/github-stats1/master/generated/languages.svg#gh-dark-mode-only)
