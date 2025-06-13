@@ -1,10 +1,12 @@
 <h1>Mian Dawood bin Rafay</h1> 
 
-![](https://raw.githubusercontent.com/dawoodmdbr/github-stats1/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/dawoodmdbr/github-stats1/master/generated/languages.svg#gh-dark-mode-only)
-<a href="https://github-readme-streak-stats.herokuapp.com">
-  <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dawoodmdbr&theme=dark&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dawoodmdbr&theme=dark&border_radius=9" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodmdbr&layout=compact&theme=dark" />
+</a>
+
 ## ⚙️ Tech Stack  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
