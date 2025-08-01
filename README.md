@@ -8,16 +8,23 @@
   <a href="mailto:dawoodbinrafaydbr@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35px" />
   </a>
+  
   <a href="https://www.linkedin.com/in/mian-dawood-bin-rafay-4b3194254/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" />
   </a>
+  
   <a href="https://instagram.com/dawood.mdbr">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="35px" />
   </a>
-  <a href="https://github.com/dawoodmdbr">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35px" />
-  </a>
 </p>
+
+---
+
+## 📌 Featured Projects
+
+### 🪴 MDBR Nursery  
+A React-based one-page nursery shop with dynamic cart, search, filters, and responsive UI.  
+[🔗 View Live](https://dawoodmdbr.github.io/mdbr-nursery) | [📁 Repo](https://github.com/dawoodmdbr/mdbr-nursery)
 
 ---
 
