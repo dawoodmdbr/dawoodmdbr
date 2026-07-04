@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Focused Software Engineering Student | React · TypeScript · Full-Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2757C4&center=true&vCenter=true&width=600&lines=Building+responsive%2C+accessible+web+apps;React+%7C+TypeScript+%7C+Node.js+%7C+Python;Turning+UI%2FUX+wireframes+into+real+products;Currently+shipping+Duel+Arena+2D+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2757C4&center=true&vCenter=true&width=600&lines=Building+responsive%2C+accessible+web+apps;React+%7C+TypeScript+%7C+Node.js+%7C+Python;Turning+UI%2FUX+wireframes+into+real+products;Currently+shipping+Tixora+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🎓 B.S. Software Engineering @ **FAST-NUCES**, Faisalabad (2024 – 2028)
 - 💻 Front-end focused engineer with **6 shipped, production-grade apps**
 - 🌐 Comfortable across the stack — React/TypeScript on the front, Node.js/Express/Flask on the back
-- 🔭 Currently building **Duel Arena 2D** — a real-time multiplayer battle arena with Phaser.js & Socket.io
+- 🔭 Currently building **Tixora** — a Luxury accessories e-commerce website.
 - 🌱 Exploring real-time systems, game dev with Phaser.js, and cleaner state management patterns
 - 📸 Photography Head @ FAST Photography Society (FPS)
 - 📫 Reach me at **dawoodbinrafaydbr@gmail.com**
