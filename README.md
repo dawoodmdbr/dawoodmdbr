@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dawood</h1>
+<h1 align="center">Hi 👋, I'm Mian Dawood</h1>
 <h3 align="center">Front-End Focused Software Engineering Student | React · TypeScript · Full-Stack</h3>
 
 <p align="center">
