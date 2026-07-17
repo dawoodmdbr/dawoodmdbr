@@ -12,8 +12,6 @@
 - 🎓 B.S. Software Engineering @ **FAST-NUCES**, Faisalabad (2024 – 2028)
 - 💻 Front-end focused engineer with **6 shipped, production-grade apps**
 - 🌐 Comfortable across the stack — React/TypeScript on the front, Node.js/Express/Flask on the back
-- 🔭 Currently building **Tixora** — a Luxury accessories e-commerce website.
-- 🌱 Exploring real-time systems, game dev with Phaser.js, and cleaner state management patterns
 - 📸 Photography Head @ FAST Photography Society (FPS)
 - 📫 Reach me at **dawoodbinrafaydbr@gmail.com**
 
