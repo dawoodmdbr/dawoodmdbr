@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.S. Software Engineering @ **FAST-NUCES**, Faisalabad (2024 – 2029)
+- 🎓 B.S. Software Engineering @ **FAST-NUCES**, Faisalabad (2024 – 2028)
 - 💻 Front-end focused engineer with **6 shipped, production-grade apps**
 - 🌐 Comfortable across the stack — React/TypeScript on the front, Node.js/Express/Flask on the back
 - 📸 Photography Head @ FAST Photography Society (FPS)
